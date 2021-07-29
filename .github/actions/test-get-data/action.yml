@@ -1,0 +1,7 @@
+name: "Test get data"
+
+description: "Runs the statswales_get_dataset function and outputs results"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
